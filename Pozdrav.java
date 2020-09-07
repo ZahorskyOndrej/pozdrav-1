@@ -12,5 +12,9 @@ package git;
 public class Pozdrav {
      public static void main(String[] args){
          System.out.println("Čau");
+          System.out.println("6AY");
+          System.out.println("TOMÍNO");
+          System.out.println("AGILNÍ KANTÉČKO");
+          
      }
 }
